@@ -170,7 +170,7 @@
 
 	#header
 	{
-		padding: 0;
+		padding: 0em 0 0em 0 !important;
 		background-position: center center;
 		background-attachment: scroll;
 	}
